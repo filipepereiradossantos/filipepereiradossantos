@@ -11,7 +11,6 @@
   <a href="https://instagram.com/filipe_pereira06">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Vi%C3%A7osa%20%7C%20MG-2E5FA3?style=for-the-badge" />
 </p>
 
 ---
