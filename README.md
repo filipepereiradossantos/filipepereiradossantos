@@ -41,12 +41,37 @@
 
 ---
 
+### 🚀 Projeto em destaque
+
+**[analise-de-dados-python](https://github.com/filipepereiradossantos/analise-de-dados-python)**
+Ferramenta em Python para automação de análise de dados a partir de arquivos CSV, gerando insights de forma rápida e eficiente.
+
+---
+
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipepereiradossantos&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipepereiradossantos&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipepereiradossantos&show_icons=true&hide_border=true&theme=default" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipepereiradossantos&layout=compact&hide_border=true&theme=default" width="48%" />
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=filipepereiradossantos&hide_border=true&theme=default" width="60%" />
+</p>
+
+---
+
+### 🎯 O que estou buscando
+
+| Área | Interesse |
+|---|---|
+| Suporte Técnico | ✅ |
+| Banco de Dados | ✅ |
+| Análise de Dados | ✅ |
+| Desenvolvimento de Sistemas | ✅ |
+
+---
+
+<p align="center">
+  <em>Estudante em formação, prático desde o primeiro dia — pronto para aprender e contribuir onde a equipe mais precisar.</em>
 </p>
