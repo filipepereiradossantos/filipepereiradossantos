@@ -16,7 +16,6 @@
 
 - 🎓 Estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Univiçosa
 - 💻 Base em **lógica de programação, SQL/MySQL, Python, C, HTML/CSS e PHP**
-- 🛠️ Experiência prática com **atendimento, organização e sistemas** (suporte ao cliente, controle de estoque, PDV)
 - 🎯 Aberto a oportunidades em **diversas áreas de TI** — suporte técnico, banco de dados, análise de dados ou desenvolvimento de sistemas
 - 🌱 Aprendizado contínuo, comunicação e resolução de problemas são meus pontos fortes
 
@@ -37,12 +36,7 @@
 
 ---
 
-### 🚀 Projeto em destaque
 
-**[analise-de-dados-python](https://github.com/filipepereiradossantos/analise-de-dados-python)**
-Ferramenta em Python para automação de análise de dados a partir de arquivos CSV, gerando insights de forma rápida e eficiente.
-
----
 
 ### 📊 Estatísticas
 
@@ -54,17 +48,6 @@ Ferramenta em Python para automação de análise de dados a partir de arquivos 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=filipepereiradossantos&hide_border=true&theme=default" width="60%" />
 </p>
-
----
-
-### 🎯 O que estou buscando
-
-| Área | Interesse |
-|---|---|
-| Suporte Técnico | ✅ |
-| Banco de Dados | ✅ |
-| Análise de Dados | ✅ |
-| Desenvolvimento de Sistemas | ✅ |
 
 ---
 
