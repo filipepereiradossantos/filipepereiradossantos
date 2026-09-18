@@ -1,7 +1,7 @@
-# Olá! Eu sou o Filipe Pereira 
+# Olá! Eu sou o Filipe Pereira 👋
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na UNIVIÇOSA (Conclusão em 2028)
-💻 **Interessado em:** Desenvolvimento de Software, Banco de Dados e Suporte Técnico
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na UNIVIÇOSA (Conclusão em 2028)<br>
+💻 **Interessado em:** Desenvolvimento de Software, Banco de Dados e Suporte Técnico<br>
 📍 **Viçosa - MG, Brasil**
 
 ---
