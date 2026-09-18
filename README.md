@@ -1,56 +1,23 @@
-<h1 align="center">Olá, eu sou o Filipe 👋</h1>
+# Olá! Eu sou o Filipe Pereira 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E5FA3&center=true&vCenter=true&width=650&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aberto+a+oportunidades+em+TI%3A+suporte%2C+dados+ou+desenvolvimento;Aprendendo+todo+dia+um+pouco+mais" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/filipe_pereira06">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na UNIVIÇOSA (Conclusão em 2028)
+💻 **Interessado em:** Desenvolvimento de Software, Banco de Dados e Suporte Técnico
+📍 **Viçosa - MG, Brasil**
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 🛠️ Tecnologias & Ferramentas
 
-- 🎓 Estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Univiçosa
-- 💻 Base em **lógica de programação, SQL/MySQL, Python, C, HTML/CSS e PHP**
-- 🎯 Aberto a oportunidades em **diversas áreas de TI** — suporte técnico, banco de dados, análise de dados ou desenvolvimento de sistemas
-- 🌱 Aprendizado contínuo, comunicação e resolução de problemas são meus pontos fortes
-
----
-
-### 🛠️ Tecnologias
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
+### 🌐 Onde me encontrar
 
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipepereiradossantos&show_icons=true&hide_border=true&theme=default" width="48%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipepereiradossantos&layout=compact&hide_border=true&theme=default" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=filipepereiradossantos&hide_border=true&theme=default" width="60%" />
-</p>
-
----
-
-<p align="center">
-  <em>Estudante em formação, prático desde o primeiro dia — pronto para aprender e contribuir onde a equipe mais precisar.</em>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pereira-filipe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipe.pereira.santos06@gmail.com)
